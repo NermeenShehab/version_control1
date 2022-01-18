@@ -1,2 +1,2 @@
-# version_control1
-t
+ version_control1
+This is first repo
