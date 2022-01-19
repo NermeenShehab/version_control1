@@ -1,2 +1,2 @@
  version_control1
-This is first repo
+This is test repo
